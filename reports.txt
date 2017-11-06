@@ -1,0 +1,19 @@
+Intraday reports:
+
+1) detail to campaign, [call list], new data a' 15 minutes
+
+	A) Dialing metrics
+    * hit ratio
+    * ports utilization
+    * abbandon rates
+    * CPD result evolution (connect rate, coverage rate ...)
+    * CALL result evolution
+    
+    
+    B) Agents performance 
+    * breakdown of agent states
+    * 
+    
+ideas:
+1) make reports for campaign and call list
+2) make a report for genesys parameter configuration
